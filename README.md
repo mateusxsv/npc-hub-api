@@ -37,7 +37,7 @@ Antes de executar o projeto, é necessário ter instalado:
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/mateusxsv/npc-hub-api.git
+git clone https://github.com/mateusxsv/npc-hub-api
 ```
 
 ### 2. Entrar na pasta do projeto
@@ -160,7 +160,7 @@ npc-hub-api/
 
 Este backend é consumido pelo aplicativo mobile NPC HUB, desenvolvido com React Native e Expo.
 
-**Repositório do frontend:** URL_DO_REPOSITORIO_FRONTEND
+**Repositório do frontend:** https://github.com/mateusxsv/npc-hub
 
 ## 🎓 Projeto acadêmico
 
